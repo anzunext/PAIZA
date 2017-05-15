@@ -8,3 +8,4 @@ echo $a > $b;
 
 echo $a = $b = "eq";
 ?>
+kkkkkkkkkk
