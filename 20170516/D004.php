@@ -41,6 +41,7 @@ for ( $i = 0; $i < $input_lines; $i++ ){
 
 
 <?php
+//できてないやつ
 echo " HEllo";
 $input_lines = fgets ( STDIN );
 $name = ["Kino" , "Noda" , "Kirishima"];
