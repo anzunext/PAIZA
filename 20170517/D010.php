@@ -1,7 +1,7 @@
 <?php
     $input_lines = trim ( fgets ( STDIN ) );
     //echo "$input_lines";
-    $input_lines1 = fgets(STDIN);
+    $input_lines1 = trim ( fgets ( STDIN ) );
     //echo $input_lines1;
     $a = $input_lines;
     //echo $a;
